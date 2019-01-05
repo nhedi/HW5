@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Rock Paper Scissor Game</string>
+    <string name="ip_address">Enter IP address</string>
+    <string name="username">Enter Username</string>
+    <string name="button_connect">Connect</string>
+    <string name="button_join">Join game</string>
+    <string name="button_rock">rock</string>
+    <string name="button_paper">paper</string>
+    <string name="button_scissor">scissor</string>
+    <string name="button_quit">quit</string>
+</resources>
