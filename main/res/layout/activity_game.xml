@@ -22,8 +22,9 @@
 
     <Button
         android:id="@+id/button"
-        android:layout_width="63dp"
-        android:layout_height="30dp"
+        android:layout_width="67dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="16dp"
         android:layout_marginEnd="16dp"
         android:onClick="sendUsername"
         android:text="OK"
@@ -33,8 +34,9 @@
 
     <Button
         android:id="@+id/button_join"
-        android:layout_width="63dp"
-        android:layout_height="44dp"
+        android:layout_width="74dp"
+        android:layout_height="49dp"
+        android:layout_marginTop="20dp"
         android:layout_marginEnd="16dp"
         android:onClick="sendJoin"
         android:text="@string/button_join"
