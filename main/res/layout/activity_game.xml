@@ -95,7 +95,7 @@
 
     <TextView
         android:id="@+id/gameHistory"
-        android:layout_width="656dp"
+        android:layout_width="373dp"
         android:layout_height="329dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
